@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BOYZjtp2WI4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rayni\\Documents\\Projetos C#\\MusicPlayer\\MusicPlayer\\MusicPlayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rayni\\.nuget\\packages\\taglib-sharp-netstandard2.0\\2.1.0\\taglib-sharp-netstandard2.0.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
